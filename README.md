@@ -53,7 +53,7 @@ A: You can use [VirtualBox](https://virtualbox.org), [VMware Workstation](https:
 
 Q: **Can I use a VM without installing/downloading anything?**
 
-A: You can try to find some VMs online on [this server](https://discord.gg/AhWGYbwcc4) and connect to them using AnyDesk, or just use [ANY.RUN](https://app.any.run) or [CollabVM](https://computernewb.com/collab-vm/)
+A: You can try to find some VMs online using AnyDesk, or just use [ANY.RUN](https://app.any.run) or [CollabVM](https://computernewb.com/collab-vm/)
 
 Q: **The password isn't working, what can I do?**
 
