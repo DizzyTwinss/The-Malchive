@@ -71,4 +71,4 @@ Thanks to:
 
 ---
 
-### MalwareDatabase, Copyright (c) 2022 DizzyTwins
+### The Malchive, Copyright (c) 2022 DizzyTwins
