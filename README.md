@@ -2,18 +2,18 @@
   <br>
   <img src=https://img.icons8.com/fluency/nuclear width="75">
   <br>
-  MalwareDatabase
+  The Malware Archive!
   <br>
 </h1>
 <p align="center">
-<a href="https://github.com/Vichingo455/MalwareDatabase/releases">
+<a href="https://github.com/DizzyTwinss/The-Malchive/releases/tag/Malware">
 <img alt="Latest GitHub release" src="https://img.shields.io/github/release/Vichingo455/MalwareDatabase.svg?style=flat-square" />
 </a>
-<a href="https://github.com/Vichingo455/MalwareDatabase/issues">
+<a href="https://github.com/DizzyTwinss/The-Malchive/issues">
 <img src="https://img.shields.io/github/issues-raw/Vichingo455/MalwareDatabase.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub issues">
  </a>
-<a href=https://github.com/Vichingo455/MalwareDatabase/pulse><img src=https://img.shields.io/github/repo-size/Vichingo455/MalwareDatabase?style=flat-square&logo=GitHub&logoColor=white&color=ff8f00></a>
+<a href=https://github.com/DizzyTwinss/The-Malchive/pulse><img src=https://img.shields.io/github/repo-size/Vichingo455/MalwareDatabase?style=flat-square&logo=GitHub&logoColor=white&color=ff8f00></a>
   
 One of the public malware repositories on GitHub.
 
@@ -29,15 +29,15 @@ The current malware sectors are:
 
 ## Download
 
-#### [Direct Download](https://github.com/User/MalwareDatabase/archive/refs/heads/main.zip)
+#### [Direct Download](https://github.com/DizzyTwinss/The-Malchive/releases/download/Malware/The.Malware.Archive.7z)
 
 or
 
-#### Shell: `git clone https://github.com/User/MalwareDatabase.git %folder%`
+#### Shell: `git clone https://github.com/DizzyTwinss/The-Malchive.git %folder%`
 
 or
 
-#### [Download via Release](https://github.com/User/MalwareDatabase/releases/latest)
+#### [Download via Release](https://github.com/DizzyTwinss/The-Malchive/releases/tag/Malware)
 
 ## FAQs
 Q: **What is malware?**
@@ -66,9 +66,9 @@ A: Yes, if you don't unzip the samples, they cannot damage your PC.
 
 ### Credits
 Thanks to:
-- Vichingo455 (gived the repository template)
-- Give here some credits
+- Vichingo455 (gived the repository template and some malware)
+- Da2dalus (for malware)
 
 ---
 
-### MalwareDatabase, Copyright (c) 2022 User
+### MalwareDatabase, Copyright (c) 2022 DizzyTwins
