@@ -21,15 +21,11 @@ One of the public malware repositories on GitHub.
 
 ### Malware Disambiguation
 The current malware sectors are:
-- Exploits - Tools to hack other's computers;
 - Worm - A virus that eplicates itself in order to spread to other computers;
 - Trojan - A piece of malware that disguises itself as a normal file as to trick users into opening it/running it;
 - Ransomware - A type of malware from cryptovirology that threatens to publish the victim's personal data or perpetually block access to it unless/until a ransom is paid.
 - Jokes - Software that pretends to be of malicous intent yet is safe to run on a real machine
 - Rogues - Malicious software and internet fraud that misleads users into believing there is a virus on their computer and aims to convince them to pay for a fake malware removal tool that (usually) actually installs malware on their computer.
-
-### Password
-The password is `putherethearchivepasw`
 
 ## Download
 
@@ -48,9 +44,7 @@ Q: **What is malware?**
 
 A: *Malware is a type of software to **infect**, **erase**, **damage** or **block** a **computer**, **server** or **network***.
 
-Q: **What is the password for the archives?**
-
-A:  The password is `putherethearchivepasw`
+Q: Why cant I 
 
 Q: **What software can I use for testing malware?**
 
