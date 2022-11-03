@@ -26,6 +26,7 @@ The current malware sectors are:
 - Ransomware - A type of malware from cryptovirology that threatens to publish the victim's personal data or perpetually block access to it unless/until a ransom is paid.
 - Jokes - Software that pretends to be of malicous intent yet is safe to run on a real machine
 - Rogues - Malicious software and internet fraud that misleads users into believing there is a virus on their computer and aims to convince them to pay for a fake malware removal tool that (usually) actually installs malware on their computer.
+- Decrypters - Tools that use can use to decrypt your files after you were encrypted by ransomware.
 
 ## Download
 
