@@ -67,7 +67,7 @@ A: Yes, if you don't unzip the samples, they cannot damage your PC.
 
 ### Credits
 Thanks to:
-- Vichingo455 (gived the repository template and some malware)
+- Vichingo455 (made the repository template and some malware)
 - Da2dalus (for malware)
 
 ---
